@@ -1,0 +1,10 @@
+# MacOS file system
+.DS_Store
+
+# data
+audio_corpus/
+audios_new/
+commonvoice_sample/
+
+# checkpoints
+.ipynb_checkpoints/
